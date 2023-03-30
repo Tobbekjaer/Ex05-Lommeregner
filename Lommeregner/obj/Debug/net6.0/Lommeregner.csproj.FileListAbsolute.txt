@@ -1,0 +1,15 @@
+C:\C Sharp Windows\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.exe
+C:\C Sharp Windows\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.deps.json
+C:\C Sharp Windows\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.runtimeconfig.json
+C:\C Sharp Windows\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.dll
+C:\C Sharp Windows\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.pdb
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.csproj.AssemblyReference.cache
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.AssemblyInfoInputs.cache
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.AssemblyInfo.cs
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.csproj.CoreCompileInputs.cache
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.dll
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\refint\Lommeregner.dll
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.pdb
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.genruntimeconfig.cache
+C:\C Sharp Windows\Lommeregner\Lommeregner\obj\Debug\net6.0\ref\Lommeregner.dll
